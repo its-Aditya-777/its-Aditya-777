@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Aditya! 👋
 
-<!--
-**its-Aditya-777/its-Aditya-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm someone who enjoys understanding how things work, building useful things, and constantly learning something new. I'm particularly fascinated by technology and the idea of creating systems that can learn, think, and solve problems.
 
-Here are some ideas to get you started:
+## 🚀 What I'm up to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Pursuing my B.Tech at NSUT, Delhi.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 💻 Building projects in software and web development.
+- 🧠 Strengthening my Data Structures & Algorithms and problem-solving skills.
+- 🔬 Experimenting with different ideas and technologies through hands-on projects.
+- 🌱 Always trying to learn, improve, and turn ideas into something real.
+
+## 💡 What interests me
+
+I'm especially interested in **AI/ML, software development, intelligent systems, and problem solving**. I enjoy going beyond just learning concepts and actually building things with them.
+
+## 🎯 Beyond coding
+
+I believe growth isn't limited to academics or technology. I'm interested in learning from people, taking responsibility, contributing to communities, and becoming better through the experiences I take on.
+
+---
+
+⭐ Thanks for stopping by!
